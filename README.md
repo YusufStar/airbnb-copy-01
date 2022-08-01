@@ -1,6 +1,6 @@
 # airbnb-clone
 
-<button><a href="https://yusufstar.github.io/airbnb-copy/">Go To Web Site</a></button>
+<button><a href="https://yusufstar.github.io/airbnb-copy-01/">Go To Web Site</a></button>
 
 Airbnb clone is a onepage html and css project replicating a page on the official **Airbnb** website
 > https://www.airbnb.com/host/homes
