@@ -1,26 +1,27 @@
-# Airbnb Clone #
+# airbnb-clone
+Airbnb clone is a onepage html and css project replicating a page on the official **Airbnb** website
+> https://www.airbnb.com/host/homes
 
-### A clone of Airbnb website done using HTML and CSS and Bootstrap 4. ###
+The project is the exact replica of the contents on the page link above as at 25 - 01 - 2019.
 
-The website that we are about to clone is https://airbnb.com
+![airbnb](airbnb.png "airbnb")
+## Technologies
+HTML 5
 
-This is a demo project for understanding how to use HTML, CSS and Bootstrap to build a website of your own.
+CSS 3
 
-#### raw.html ####
-- is a HTML page that uses only HTML, no CSS is involved.
+## Framework
+CSS Reset
 
-#### inline.html ####
-- is a HTML page that uses HTML along with inline CSS.
+## Setup
+> Open your git bash and **cd** to the location you'd like to put your files the run the command below.
 
-#### internal.html ####
-- is similar to inline.html, but all styling is maintained in head section using style tag.
+`git clone https://github.com/AdnanAfsari/airbnb-clone.git`
 
-#### airbnb_external.html ####
-- is a file which uses HTML, external css is used & named as "style.css" and linked using link tag in head section of the file.
+Here is a link to the live preview [preview](https://raw.githack.com/AdnanAfsari/airbnb-clone/development/index.html)
 
-#### bootstrap.html ####
-- is a file which uses HTML, external css is used & named as "custom.css" and bootstrap 4 which gives the real feel of the website looks.
 
-The Final Cloned Website Looks As Follows : 
+## Author
+[James Okunlade](https://github.com/JamesOkunlade)
 
-![Image Sample](clone.png)
+[Adnan Afsari](https://github.com/AdnanAfsari)
